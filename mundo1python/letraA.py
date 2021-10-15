@@ -1,0 +1,5 @@
+print("Encontrar o numero de ocorrencia na letra a")
+frase=input("Digite uma frase ").upper()
+print("A letra A aparece {} vezes ". format(frase.count("A")))
+print(f"A primeira ocorencia de A é na posicao {frase.find('A')+1} ")
+print(f"A última ocorrencia de A é naa posicao {frase.rfind('A')+1}")
