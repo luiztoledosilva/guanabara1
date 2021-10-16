@@ -1,0 +1,10 @@
+codigo = 3 
+ Nome =  
+ Preco = R$5555.0 
+ codigo = 1 
+ Nome =  
+ Preco = R$66.0 
+ codigo = 2 
+ Nome =  
+ Preco = R$55.0 
+ 

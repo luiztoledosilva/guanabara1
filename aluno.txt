@@ -1,0 +1,14 @@
+Alunos 
+nome = kiko 
+RA = 3 
+Curso = reds 
+Alunos 
+nome = chico 
+RA = 4 
+Curso = redes 
+nome = julio 
+RA = 5 
+Curso = redes 
+nome = julio 
+RA = 4 
+Curso = redes 
